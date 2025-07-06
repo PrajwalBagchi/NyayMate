@@ -18,17 +18,16 @@ With a sleek Streamlit interface and Google Gemini integration, it offers:
 ## 📸 Screenshots
 
 ### 🧑‍⚖️ Landing Page
-![Landing Page](assests/Screenshot 2025-07-06 174307.png)
+![Landing Page](./assets/Screenshot%202025-07-06%20174307.png)
 
 ### 🧠 Summary & Section Selection
-![Summary](assets/Screenshot%202025-07-06%20174533.png)
+![Summary](./assets/Screenshot%202025-07-06%20174533.png)
 
 ### 📘 BNS Descriptions Output
-![BNS Descriptions](assets/Screenshot%202025-07-06%20174601.png)
+![BNS Descriptions](./assets/Screenshot%202025-07-06%20174601.png)
 
 ### 📚 Case History Output
-![Case History](assets/Screenshot%202025-07-06%20175528.png)
-
+![Case History](./assets/Screenshot%202025-07-06%20175528.png)
 ## 🚀 Features
 
 - 🔎 Semantic search over BNS using MiniLM and FAISS
